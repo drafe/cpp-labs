@@ -1,0 +1,3 @@
+﻿  shop.cpp
+d:\vs17_prog\2 курс\aris0krat\lab_2_3\lab_2_3\shop.cpp(23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lab_2_3.vcxproj -> D:\vs17_prog\2 курс\aris0krat\lab_2_3\Debug\lab_2_3.exe
